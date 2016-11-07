@@ -1,1 +1,1 @@
-main{if    a=10}
+sdfsdfsdfsdf
