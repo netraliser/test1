@@ -1,3 +1,3 @@
 212234sdfsdfcccc
 
-main {for i=1, j++}
+main {for i=1, bbb}
