@@ -1,1 +1,3 @@
-212234sdfsdfsdfsdf
+212234sdfsdfcccc
+
+main {for i=1, j++}
